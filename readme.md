@@ -2,4 +2,4 @@
 
 My favorite ways to prepare coffee.
 
- - [Areopress](aeropress.md)
+ - [AeroPress](aeropress.md)
