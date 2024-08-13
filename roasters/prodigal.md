@@ -4,7 +4,7 @@
  - Located: Boulder, CO
  - Various roast dates to choose from
 
-### Komothai AA - Kenya 2024
+### Komothai AA 2024
 
  - URL: https://getprodigal.com/products/komothai
  - [x] Single Origin
@@ -18,7 +18,7 @@
 
 At two weeks from roast date I tasted jasmine and cherry. It's a sweet, lighter bodied espresso and very flavorful. 7/10.
 
-### El Triángulo Geisha - Colombia 2024
+### El Triángulo Geisha 2024
 
  - URL: https://getprodigal.com/products/el-triangulo-geisha-colombia-washed
  - [x] Single Origin
