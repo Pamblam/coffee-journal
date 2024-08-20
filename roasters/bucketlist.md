@@ -4,10 +4,10 @@ Roasters I want to try/have tried.
 
  - [x] [SEY Coffee](https://www.seycoffee.com/)
  - [x] [Prodigal Coffee](https://getprodigal.com/)
- - [ ] [Proud Mary](https://proudmarycoffee.com)
+ - [x] [Proud Mary](https://proudmarycoffee.com)
  - [ ] [Atomic Roastery](https://atomicroastery.com)
- - [ ] [Rabbit Hole](https://www.rabbitholeroasters.com)
- - [ ] [Blossom](https://blossomcoffeeroasters.com)
+ - [x] [Rabbit Hole](https://www.rabbitholeroasters.com)
+ - [x] [Blossom](https://blossomcoffeeroasters.com)
  - [ ] [Noble Coyote](https://www.noblecoyotecoffee.com)
  - [ ] [Onyx](https://onyxcoffeelab.com)
  - [ ] [Coffee Bros](https://coffeebros.com)

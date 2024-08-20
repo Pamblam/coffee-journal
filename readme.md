@@ -17,6 +17,10 @@ List of roasters and products, in the order that I've tried them.
    - [Sumatra - Ratu Ketiara Womens Cooperative 2024](roasters/blossom.md#sumatra---ratu-ketiara-womens-cooperative-2024)
    - [Decaf Ethiopia 2024](roasters/blossom.md#decaf-ethiopia-2024)
  - [Proud Mary](roasters/proud-mary.md)
+   - [10th Place Cup of Excellence | Geisha](roasters/proud-mary.md#10th-place-cup-of-excellence--geisha)
+ - [Rabbit Hole](roasters/rabbit-hole.md)
+   - [Gesha - Angel Ortega 2024]()
+   - [Decaf Mexico 2024]()
 
 # Recipes
 
